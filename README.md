@@ -55,6 +55,7 @@ Establecer un flujo eficiente y controlado para la gestión de créditos vehicul
 ![image](https://github.com/user-attachments/assets/a2c017ba-984c-4ff7-9b7a-1d249a914fd7)
 
 ## Modelo Lógico
+![bd_creditos_vehiculares_1](https://github.com/user-attachments/assets/df1290cb-60a3-4557-a0f1-530c8eb3fec2)
 
 ## Modelo Físico
 ![image](https://github.com/user-attachments/assets/507bf505-eace-46ec-93b8-0e0139bd2ae5)
